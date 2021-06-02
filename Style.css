@@ -1,0 +1,39 @@
+h2{
+  color: white;
+  background: red;
+  text-align: center;
+  height: 80px;
+  text-decoration: none;
+  text-shadow: 3px 2px 3px red;
+  
+}
+li{
+  display: inline-block ;
+  
+  background: white;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+table{
+  background:none;
+  
+}
+button{
+  background-color: red;
+  margin-bottom: 20px;
+  
+  padding: 20px;
+}
+#ves{
+  
+background-color: red;
+  margin-bottom: 20px;
+  
+  padding: 20px;
+  
+}
+img{
+  height: 200px;
+  width: 200px;
+  display: block;
+}
